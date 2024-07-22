@@ -1,11 +1,9 @@
 ---
 username: admin
-name: Bruno Mason
-image: '/images/100.jpg'
+name: 金刻羽
+image: '/images/200.jpg'
 location:
-website:
-facebook: https://www.facebook.com
-twitter: https://twitter.com
-instagram: https://www.instagram.com
+website:https://www.keyujin.com/
+twitter: https://x.com/KeyuJin
 ---
 I'm a seasoned veteran of editorial and content management with the skills to make a difference.
