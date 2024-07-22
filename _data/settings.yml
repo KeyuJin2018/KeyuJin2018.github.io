@@ -17,7 +17,7 @@ menu_settings:
       url: "/latest/"
     - title: "Authors"
       url: "/authors/"
-    - title: "Videos"
+    - title: "视音"
       url: "/videos/"
     - title: "Pages"
       submenu:
