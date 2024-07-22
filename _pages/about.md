@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 金刻羽
 permalink: /about/
 image: '/images/31.jpg'
 ---
