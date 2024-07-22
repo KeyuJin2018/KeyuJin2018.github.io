@@ -19,7 +19,6 @@ menu_settings:
       url: "/authors/"
     - title: "视音"
       url: "/videos/"
-    - title: "Pages"
     - title: "金刻羽"
       url: "/about/"
     - title: "瞬间"
