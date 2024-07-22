@@ -15,8 +15,6 @@ menu_settings:
       url: "/"
     - title: "Latest"
       url: "/latest/"
-    - title: "Authors"
-      url: "/authors/"
     - title: "视音"
       url: "/videos/"
     - title: "金刻羽"
