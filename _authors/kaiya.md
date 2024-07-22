@@ -1,11 +1,9 @@
 ---
-username: kaiya
-name: Kaiya George
-image: '/images/102.jpg'
+username: Keyu
+name: 金刻羽
+image: '/images/200.jpg'
 location:
-website:
-twitter: https://twitter.com
-facebook: https://www.facebook.com
-instagram: https://www.instagram.com
+website: https://www.keyujin.com/
+twitter: https://x.com/KeyuJin
 ---
-I am an award-winning novelist who has published two books with a major New York City publishing house.
+伦敦政治经济学院副教授
