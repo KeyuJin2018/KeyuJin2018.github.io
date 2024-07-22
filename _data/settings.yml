@@ -3,7 +3,7 @@
 title: 金刻羽
 description: Danto is a news and magazine Jekyll theme
 logo: "/images/logo1.png" # You can add own logo. For example "/images/logo.svg".
-logo_dark: "/images/logo1.png"
+logo_dark: "/images/logo2.png"
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
