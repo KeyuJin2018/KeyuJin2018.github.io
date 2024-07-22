@@ -20,15 +20,13 @@ menu_settings:
     - title: "视音"
       url: "/videos/"
     - title: "Pages"
-      submenu:
-      - url: "/about/"
-        title: "About"
-      - url: "/elements/"
-        title: "Elements"
-      - url: "/contact/"
-        title: "Contact"
-      - url: "/featured/"
-        title: "Featured"
+    - title: "金刻羽"
+      url: "/about/"
+    - title: "瞬间"
+      url: "/elements/"
+     
+      
+  
 
 
 
