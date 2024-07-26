@@ -8,7 +8,7 @@ image: '/images/with_the_title_Creating_the_Best_G.png'
 tags: [专栏]
 ---
 来源于 《财新周刊》 2019年第45期 出版日期 2019年11月25日
-
+Creating the Best Global Network
 > 在网络时代，一国联结的广泛度与经济规模同样重要，在自身通过联结变强的同时，也要让网络中的其他节点得到强化
 
 文｜金刻羽
