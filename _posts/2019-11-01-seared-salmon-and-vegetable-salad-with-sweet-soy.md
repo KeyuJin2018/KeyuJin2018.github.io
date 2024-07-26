@@ -1,13 +1,19 @@
 ---
 layout: post
-title: Seared Salmon and Vegetable Salad With Sweet Soy
-description: Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis convallis tristique.
-date: 2022-06-24 15:01:35 +0300
-author: justin
-image: '/images/23.jpg'
-tags: [food]
+title: 《财新周刊》｜中国将与欧洲而不是伦敦做更多的生意
+description: 脱欧后的英国仍将主要与欧洲进行贸易，但脱欧也给中国与英国未来的经贸合作带来机遇
+date: 2019-11-01 15:01:35 +0300
+author: admin
+image: '/images/ihuuxuu2232564.png'
+tags: [专栏]
 ---
-Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor.
+来源于《财新周刊》 2021年11月01日 第42期
+
+> 脱欧后的英国仍将主要与欧洲进行贸易，但脱欧也给中国与英国未来的经贸合作带来机遇
+
+
+文｜金刻羽
+伦敦政治经济学院经济学终身教授
 
 Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam.
 
