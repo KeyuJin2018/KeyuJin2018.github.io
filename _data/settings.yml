@@ -59,7 +59,7 @@ tags_section:
 social:
 - {icon: "twitter", link: "https://keyujin.cn/admin"}
 - {icon: "disc", link: "https://www.keyujin.com/"}
-- <ion-icon name="disc",link: "https://www.keyujin.com/"></ion-icon>
+
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
