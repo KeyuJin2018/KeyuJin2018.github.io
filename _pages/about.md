@@ -19,10 +19,10 @@ image: '/images/11.jpg'
 
 Dr. Keyu Jin is an associate professor of Economics at the London school of Economics,where she researches on topics of globalization and the Chinese economy. She is from Beijing, China, and holds a B.A., M.A., and PhD from Harvard University. Multiple academic works on international macroeconomic and China have been published in the top journal in Economics, such as the American Economic Review. She is a non-executive director to Richemont Group, the second largest luxury conglomerate, and is also an advisor to the China Banking Regulatory Commission for Fintech in China. Recently, she has focused on bridging Western capital and a new breed of fast-growing Chinese technology companies. She contributes op-ed pieces to the Financial Times, and has a column in the Project Syndicate as well as Caixin, the main economics and finance magazine in China. In the past, she has advised and consulted for the World Bank, the IMF, and the New York Fed. She has also had prior experience in Goldman Sachs, Morgan Stanley, JP Morgan among other financial institutions. She was named Young global leader by the World Economic Forum in 2014.
 
-本页面的文字允许在 CC-BY-SA 3.0 协议和 GNU 自由文档许可证下修改和再使用。
+* 本页面的文字允许在 CC-BY-SA 3.0 协议和 GNU 自由文档许可证下修改和再使用。
 
-本网站由金刻羽教授文教後援會运营，并非由金教授直接参与管理，因此无法代表金教授本人立场。
+* 本网站由金刻羽教授文教後援會运营，并非由金教授直接参与管理，因此无法代表金教授本人立场。
 
-网站成立的初衷是转刊金教授的文章，分享与金教授行程和活动相关的新闻、照片、视频等讯息。
+* 网站成立的初衷是转刊金教授的文章，分享与金教授行程和活动相关的新闻、照片、视频等讯息。
 
-想了解金教授学术观点，或者想要阅读教授专栏文章及活动演讲视频等，这些朋友们绝大部分尚未具备可以亲自参与的机缘，网站成立的目的是为了弥补此远距的限制，更为了避免大家撷取资讯时正确性堪虑，避免受不明来源之讯息所混淆或误导。
+* 想了解金教授学术观点，或者想要阅读教授专栏文章及活动演讲视频等，这些朋友们绝大部分尚未具备可以亲自参与的机缘，网站成立的目的是为了弥补此远距的限制，更为了避免大家撷取资讯时正确性堪虑，避免受不明来源之讯息所混淆或误导。
