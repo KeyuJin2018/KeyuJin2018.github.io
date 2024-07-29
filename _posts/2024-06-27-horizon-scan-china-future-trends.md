@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 展望扫描：中国未来趋势｜2024大连夏季达沃斯
+title: 展望扫描 中国未来趋势｜2024大连夏季达沃斯
 description: Horizon Scan: China Future Trends
 date: 2024-06-27 15:01:35 +0300
 author: admin
