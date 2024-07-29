@@ -15,7 +15,7 @@ image: '/images/11.jpg'
 
 金刻羽教授以优异的成绩毕业于哈佛大学，并在哈佛大学攻读博士学位期间获得了最佳研究生奖。2014 年，她被世界经济论坛评为全球青年领袖。
 
-Biography
+## Biography
 
 Dr. Keyu Jin is an associate professor of Economics at the London school of Economics,where she researches on topics of globalization and the Chinese economy. She is from Beijing, China, and holds a B.A., M.A., and PhD from Harvard University. Multiple academic works on international macroeconomic and China have been published in the top journal in Economics, such as the American Economic Review. She is a non-executive director to Richemont Group, the second largest luxury conglomerate, and is also an advisor to the China Banking Regulatory Commission for Fintech in China. Recently, she has focused on bridging Western capital and a new breed of fast-growing Chinese technology companies. She contributes op-ed pieces to the Financial Times, and has a column in the Project Syndicate as well as Caixin, the main economics and finance magazine in China. In the past, she has advised and consulted for the World Bank, the IMF, and the New York Fed. She has also had prior experience in Goldman Sachs, Morgan Stanley, JP Morgan among other financial institutions. She was named Young global leader by the World Economic Forum in 2014.
 
