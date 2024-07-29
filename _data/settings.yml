@@ -13,8 +13,6 @@ menu_settings:
   menu_items:
     - title: "首页"
       url: "/"
-    - title: "Latest"
-      url: "/latest/"
     - title: "视音"
       url: "/videos/"
     - title: "金刻羽"
@@ -59,12 +57,9 @@ tags_section:
 
 # Social Links
 social:
-- {icon: "twitter", link: "https://twitter.com"}
-- {icon: "facebook", link: "https://facebook.com"}
-- {icon: "codepen", link: "https://codepen.io"}
-- {icon: "pinterest", link: "https://pinterest.com"}
-- {icon: "github", link: "https://github.com"}
-- {icon: "youtube", link: "https://youtube.com"}
+- {icon: "twitter", link: "https://keyujin.cn/admin"}
+- {icon: "globe", link: "https://www.keyujin.com/"}
+
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
