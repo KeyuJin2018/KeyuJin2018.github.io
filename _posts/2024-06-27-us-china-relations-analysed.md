@@ -3,7 +3,7 @@ layout: post
 title: 中美关系分析｜2024大连夏季达沃斯
 description: China Economic Outlook
 date: 2024-06-27 15:01:35 +0300
-author: livia
+author: admin
 image: '/images/53818807369_4aafa98c9a_c.jpg'
 video_embed: https://www.youtube.com/embed/gnDpqjLGwl8
 tags: [video]
