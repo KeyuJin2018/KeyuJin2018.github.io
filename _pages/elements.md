@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: 瞬间
 permalink: /elements/
 image:
 ---
